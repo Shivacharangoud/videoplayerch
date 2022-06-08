@@ -1,0 +1,31 @@
+.list-item {
+  margin-bottom: 4px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #141414;
+  width: 100%;
+  padding: 2px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  cursor: pointer;
+}
+.iam-active-class {
+  background-color: #141414;
+}
+.heading {
+  color: #ffffff;
+}
+.card-container-in-thumb {
+  color: #ffffff;
+  font-size: 12px;
+  margin-left: 5px;
+  align-self: flex-start;
+}
+.react-small-player {
+}
+.span-title {
+  font-size: 14px;
+}

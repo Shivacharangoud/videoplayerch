@@ -1,0 +1,39 @@
+.play-container {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (max-width: 768px) {
+  .play-container {
+    width: 90%;
+  }
+}
+
+.video-play-heading {
+  color: #ffffff;
+  align-self: flex-start;
+}
+
+.react-player {
+  background-color: black;
+  cursor: pointer;
+}
+.player-container-inner {
+  width: 95%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.initial-heading {
+  color: #ffffff;
+  text-align: center;
+}
+.detail-about-video-para {
+  color: #ffffff;
+  align-self: flex-start;
+}

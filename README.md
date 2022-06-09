@@ -1,3 +1,8 @@
+REACT APP LINK: https://shivacharangoud.github.io/videoplayerch 
+
+WEBSITE SCREENSHOT LINK OF MOBILEVIEW: https://res.cloudinary.com/dn6dvdgtc/image/upload/v1654761577/SAVE_20220609_132917_nh6qb6.jpg
+
+
 1.  Developed an react videoplayer application where the user can play a video from the given list of videos.
 2.  Implemented filter using search input element, where the can search for an video by typing the video title.here the input element value is case-insentive, filters isrrespective of  capital or small letters.
 3.  When an particular video is selected from the list it is highlighted with different color.

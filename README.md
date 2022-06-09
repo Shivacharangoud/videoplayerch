@@ -1,6 +1,8 @@
 REACT APP LINK: https://shivacharangoud.github.io/videoplayerch 
 
-WEBSITE SCREENSHOT LINK OF MOBILEVIEW: https://res.cloudinary.com/dn6dvdgtc/image/upload/v1654761577/SAVE_20220609_132917_nh6qb6.jpg
+WEBPAGE SCREENSHOT LINK OF MOBILEVIEW: https://res.cloudinary.com/dn6dvdgtc/image/upload/v1654761577/SAVE_20220609_132917_nh6qb6.jpg
+
+WEBPAGE SCREENSHOT LINK OF LAPTOPVIEW: https://res.cloudinary.com/dn6dvdgtc/image/upload/v1654762195/Annotation_2022-06-09_133837_myzvky.png
 
 
 1.  Developed an react videoplayer application where the user can play a video from the given list of videos.
